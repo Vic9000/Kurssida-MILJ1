@@ -12,6 +12,7 @@ title: Miljö- och energikunskap 1
 - Centrala begrepp, teorier och modeller inom området miljö och energi.
 - Ekosystemens struktur, dynamik och bärkraft samt betydelsen av biologisk mångfald.
 - Lagar och andra bestämmelser inom miljö- och energiområdet på lokal, regional, nationell och internationell nivå.
+
 ### Planering
 | Vecka | Avsnitt                                  | Sidor i boken |
 | ----- | ---------------------------------------- | ------------- |
@@ -20,6 +21,7 @@ title: Miljö- och energikunskap 1
 | 36    | [[1.3 Varför bry sig om miljön?]]        | 42-55         |
 | 37    | [[1.4 Tillståndet i miljön]]             | 56-83         |
 | 38    | [[1.5 Människans avtryck på miljön]]     | 84-95         |
+
 ### Examination
 - Skriftligt prov
 	- Begreppsförståelse
