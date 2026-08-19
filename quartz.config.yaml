@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Miljö- och energikunskap 1
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: Vic9000.github.com/quartz-milj1
+  baseUrl: Vic9000.github.com/Kurssida-MILJ1
   ignorePatterns:
     - private
     - templates
