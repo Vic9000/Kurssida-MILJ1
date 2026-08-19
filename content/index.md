@@ -14,13 +14,13 @@ title: Miljö- och energikunskap 1
 - Lagar och andra bestämmelser inom miljö- och energiområdet på lokal, regional, nationell och internationell nivå.
 
 ### Planering
-| Vecka | Avsnitt                                  | Sidor i boken |
-| ----- | ---------------------------------------- | ------------- |
-| 34    | [[1.1 Behovet av hållbar utveckling]]    | 6-23          |
-| 35    | [[1.2 Naturen - basen för vår tillvaro]] | 24-41         |
-| 36    | [[1.3 Varför bry sig om miljön?]]        | 42-55         |
-| 37    | [[1.4 Tillståndet i miljön]]             | 56-83         |
-| 38    | [[1.5 Människans avtryck på miljön]]     | 84-95         |
+| Vecka | Avsnitt                                  | Uppgifter                                       | Sidor i boken |
+| ----- | ---------------------------------------- | ----------------------------------------------- | ------------- |
+| 34    | [[1.1 Behovet av hållbar utveckling]]    | [[Uppgifter 1.1 Behovet av hållbar utveckling]] | 6-23          |
+| 35    | [[1.2 Naturen - basen för vår tillvaro]] |                                                 | 24-41         |
+| 36    | [[1.3 Varför bry sig om miljön?]]        |                                                 | 42-55         |
+| 37    | [[1.4 Tillståndet i miljön]]             |                                                 | 56-83         |
+| 38    | [[1.5 Människans avtryck på miljön]]     |                                                 | 84-95         |
 
 ### Examination
 - Skriftligt prov
