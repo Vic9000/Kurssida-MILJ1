@@ -23,6 +23,7 @@ title: Miljö- och energikunskap 1
 | 38    | [[1.5 Människans avtryck på miljön]]     |                                                 | 84-95         |
 
 ### Examination
+- Diskussioner på lektionstid
 - Skriftligt prov
 	- Begreppsförståelse
 	- Diskussionsfrågor
