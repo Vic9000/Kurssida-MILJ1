@@ -49,3 +49,7 @@ title: Förberedelse inför prov 1
 ---
 ## Begreppslista
 ![[Del 1 - Begreppslista]]
+
+---
+## Exempel diskussionsfrågor
+[[Diskussionsfrågor inför prov 1]]
