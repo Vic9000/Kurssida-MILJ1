@@ -2,6 +2,7 @@
 tags:
   - milj1
 draft: "false"
+enableToc: "true"
 ---
 %%
 Ekosystem
