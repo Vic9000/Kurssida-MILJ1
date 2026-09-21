@@ -3,6 +3,8 @@ tags:
   - milj1
 draft: "false"
 enableToc: "false"
+cssclasses:
+  - hide-sidebar
 ---
 %%
 Ekosystem

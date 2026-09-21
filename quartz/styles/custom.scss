@@ -1,3 +1,11 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+.hide-sidebar .sidebar.right {
+  display: none;
+}
+
+/* Optional: Allows the main content to expand into the empty space */
+.hide-sidebar .center {
+  max-width: 100%;
+}
