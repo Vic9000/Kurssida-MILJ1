@@ -48,7 +48,7 @@ title: Förberedelse inför prov 1
 	* Eleven genomför och presenterar med **god säkerhet** undersökningar och förslag. <!-- element class="fragment" -->
 ---
 ## Begreppslista
-![[Del 1 - Begreppslista]]
+[[Del 1 - Begreppslista]]
 
 ---
 ## Exempel diskussionsfrågor
