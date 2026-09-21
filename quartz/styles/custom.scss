@@ -7,23 +7,32 @@ body:has(article.hide-sidebar) .sidebar.right {
   display: none !important;
 }
 
-// 2. Expand main content container to full width
+// 2. Expand main content container to full width and enable horizontal scroll overflow
 article.hide-sidebar,
 .center:has(article.hide-sidebar),
 body:has(article.hide-sidebar) .center,
 body.hide-sidebar .center {
   max-width: 100% !important;
   width: 100% !important;
+  overflow-x: auto !important;
 }
 
-// 3. Force table and wrapper container to stretch full width
-article.hide-sidebar table,
+// 3. Make table wrapper scrollable horizontally
 article.hide-sidebar div:has(> table),
+body:has(article.hide-sidebar) div:has(> table),
+body.hide-sidebar div:has(> table) {
+  width: 100% !important;
+  max-width: 100% !important;
+  overflow-x: auto !important;
+  display: block !important;
+}
+
+// 4. Force table to stretch full width while preserving table layout
+article.hide-sidebar table,
 body:has(article.hide-sidebar) table,
 body.hide-sidebar table {
   width: 100% !important;
   min-width: 100% !important;
-  max-width: 100% !important;
   display: table !important;
   table-layout: auto;
 }
