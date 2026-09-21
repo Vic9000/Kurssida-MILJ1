@@ -1,11 +1,16 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
-.hide-sidebar .sidebar.right {
-  display: none;
+/* Target right sidebar regardless of where hide-sidebar class attaches */
+body.hide-sidebar .sidebar.right,
+body:has(.hide-sidebar) .sidebar.right,
+body:has(article.hide-sidebar) .sidebar.right {
+  display: none !important;
 }
 
-/* Optional: Allows the main content to expand into the empty space */
-.hide-sidebar .center {
-  max-width: 100%;
+/* Expand main content container to full width */
+body.hide-sidebar .center,
+body:has(.hide-sidebar) .center,
+body:has(article.hide-sidebar) .center {
+  max-width: 100% !important;
 }
