@@ -14,3 +14,11 @@ body:has(.hide-sidebar) .center,
 body:has(article.hide-sidebar) .center {
   max-width: 100% !important;
 }
+
+/* Expand tables to 100% width on pages with hidden sidebars */
+body.hide-sidebar article table,
+body:has(.hide-sidebar) article table {
+  width: 100% !important;
+  display: table !important;
+  table-layout: auto;
+}
