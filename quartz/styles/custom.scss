@@ -1,24 +1,29 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
-/* Target right sidebar regardless of where hide-sidebar class attaches */
+// 1. Hide the right sidebar on pages with cssclasses: hide-sidebar
 body.hide-sidebar .sidebar.right,
 body:has(.hide-sidebar) .sidebar.right,
 body:has(article.hide-sidebar) .sidebar.right {
   display: none !important;
 }
 
-/* Expand main content container to full width */
-body.hide-sidebar .center,
-body:has(.hide-sidebar) .center,
-body:has(article.hide-sidebar) .center {
+// 2. Expand main content container to full width
+article.hide-sidebar,
+.center:has(article.hide-sidebar),
+body:has(article.hide-sidebar) .center,
+body.hide-sidebar .center {
   max-width: 100% !important;
+  width: 100% !important;
 }
 
-/* Expand tables to 100% width on pages with hidden sidebars */
-body.hide-sidebar article table,
-body:has(.hide-sidebar) article table {
+// 3. Force table and wrapper container to stretch full width
+article.hide-sidebar table,
+article.hide-sidebar div:has(> table),
+body:has(article.hide-sidebar) table,
+body.hide-sidebar table {
   width: 100% !important;
+  min-width: 100% !important;
+  max-width: 100% !important;
   display: table !important;
   table-layout: auto;
 }
