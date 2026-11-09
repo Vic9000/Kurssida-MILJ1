@@ -44,6 +44,6 @@ Svara utförligt på uppgifterna och använd de begrepp du lärt dig under kapit
    ![[Pasted image 20260921102002.png]]
 
 4. En kväll när du scollar på sociala medier stöter du på följande inlägg:
-   > Om vi nu har utvecklats från aporna, varför finns det fortfarande schimpanser kvar på djurparkerna? Borde inte alla ha blivit människor vid det här laget? 🐒❓ #evolution #justsaying
+   > Om vi nu har utvecklats från aporna, varför finns det fortfarande schimpanser kvar på djurparkerna? Borde inte alla ha blivit människor vid det här laget? 🐒❓ \#evolution \#justsaying
 
    Förklara på vilka sätt personen som skrivit inlägget har missuppfattat evolutionsteorin.

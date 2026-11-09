@@ -40,14 +40,23 @@ title: Miljö- och energikunskap 1
 | Vecka | Avsnitt                                            | Sidor i boken |
 | ----- | -------------------------------------------------- | ------------- |
 | 41    | [[2.6 Energi för människans aktiviteter]]          | 96-107        |
-| 42    | [[2.7 Energikällor och energibärare i vår tjänst]] | 108-127       |
-| 43    | [[2.8 Förnybara energikällor]]                     | 128-149       |
 | 44    | HÖSTLOV                                            |               |
-| 45    | [[2.9 Lagrade energikällor]]                       | 150-171       |
-| 46    | [[Förberedelse inför prov 2]]                      |               |
-| 47    | Prov 2 (torsdag)                                   |               |
+| 45    | [[2.7 Energikällor och energibärare i vår tjänst]] | 108-127       |
+| 46    | [[2.7 Energikällor och energibärare i vår tjänst]] | 108-127       |
+| 47    | [[2.8 Förnybara energikällor]]                     | 128-149       |
+| 48    | [[2.9 Lagrade energikällor]]                       | 150-171       |
+| 49    | [[Förberedelse inför prov 2]]                      |               |
+| 50    | Prov 2 (torsdag)                                   |               |
+| 51    | En obekväm sanning                                 |               |
 
-## Del 3 - Fördjupning
+## Del 3 - Förberedelse inför fördjupning
+
+| Vecka | Tema                                 | Uppgifter                                      |
+| ----- | ------------------------------------ | ---------------------------------------------- |
+| 2     | [[3.1 Lagar och andra bestämmelser]] | [[3.1 Lagar och andra bestämmelser#Uppgifter]] |
+| 3     | [[3.1 Lagar och andra bestämmelser]] | [[3.1 Lagar och andra bestämmelser#Uppgifter]] |
+| 4     | [[3.2 Vatten]]                       | [[3.2 Vatten#Uppgifter]]                       |
+| 5     | [[3.2 Vatten]]                       | [[3.2 Vatten#Uppgifter]]                       |
 
 ### Förslag ämnesval
 - AI - datacenter, mm
