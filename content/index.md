@@ -57,6 +57,11 @@ title: Miljö- och energikunskap 1
 | 3     | [[3.1 Lagar och andra bestämmelser]] | [[3.1 Lagar och andra bestämmelser#Uppgifter]] |
 | 4     | [[3.2 Vatten]]                       | [[3.2 Vatten#Uppgifter]]                       |
 | 5     | [[3.2 Vatten]]                       | [[3.2 Vatten#Uppgifter]]                       |
+| 6     | [[3.3 Dokumentärprojekt]]            |                                                |
+| 7     | SPORTLOV                             |                                                |
+| 8     |                                      |                                                |
+
+## Del 4 - Fördjupande projekt
 
 ### Förslag ämnesval
 - AI - datacenter, mm
